@@ -247,13 +247,24 @@ func (p *FileProcessor) ProcessFileList(files []FileInfo) []SensitiveInfo {
 			fmt.Printf("处理文件 %s 失败: %v\n", file.Path, err)
 			continue
 		}
-		results = append(results, *info)
+		// 只添加包含敏感信息的文件
+		if info.TotalSensitiveCount > 0 {
+			results = append(results, *info)
+		} else {
+			fmt.Printf("跳过不包含敏感信息的文件: %s\n", file.Path)
+		}
 	}
 	return results
 }
 
 // SaveResults 保存结果到JSON文件和SQLite数据库
 func (p *FileProcessor) SaveResults(results []SensitiveInfo, outputFile string) error {
+	// 如果没有包含敏感信息的文件，直接返回
+	if len(results) == 0 {
+		fmt.Println("没有发现包含敏感信息的文件，不生成输出文件")
+		return nil
+	}
+
 	// 保存到JSON文件
 	data, err := json.MarshalIndent(results, "", "    ")
 	if err != nil {
