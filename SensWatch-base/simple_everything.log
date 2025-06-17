@@ -1,0 +1,61 @@
+2025-06-17 13:51:07,495 - WARNING - 索引文件不存在，跳过加载。
+2025-06-17 13:51:07,495 - WARNING - 目录记录文件不存在，跳过加载。
+2025-06-17 13:51:07,495 - INFO - 已启动定期保存索引，每隔 300 秒保存一次。
+2025-06-17 13:51:07,495 - INFO - 已停止定期保存索引。
+2025-06-17 13:51:07,495 - INFO - 所有索引数据和线程已清理。
+2025-06-17 13:51:07,496 - INFO - /Users/cavaliers/Desktop/SensWatch-base/test 1索引构建完成，耗时 0.00 秒，共索引 7 个文件。
+2025-06-17 13:51:07,497 - INFO - 索引保存完成。
+2025-06-17 13:51:07,497 - INFO - 目录记录保存完成。
+2025-06-17 13:51:07,499 - INFO - 已启动对目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 的监控。
+2025-06-17 13:51:23,563 - INFO - 索引加载完成。
+2025-06-17 13:51:23,563 - INFO - 目录记录加载完成。
+2025-06-17 13:51:23,563 - INFO - 为目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 建立文件变动监控...
+2025-06-17 13:51:23,565 - INFO - 已建立目录索引: /Users/cavaliers/Desktop/SensWatch-base/test 1, 最新时间戳: Tue Jun 17 13:51:07 2025
+2025-06-17 13:51:23,565 - INFO - 已启动定期保存索引，每隔 300 秒保存一次。
+2025-06-17 13:51:23,565 - INFO - 已停止定期保存索引。
+2025-06-17 13:51:23,565 - INFO - 索引文件 /Users/cavaliers/Desktop/SensWatch-base/file_index.json 已删除。
+2025-06-17 13:51:23,565 - INFO - 目录记录文件 /Users/cavaliers/Desktop/SensWatch-base/directory_log.json 已删除。
+2025-06-17 13:51:23,565 - INFO - 所有索引数据和线程已清理。
+2025-06-17 13:51:23,566 - INFO - /Users/cavaliers/Desktop/SensWatch-base/test 1索引构建完成，耗时 0.00 秒，共索引 7 个文件。
+2025-06-17 13:51:23,567 - INFO - 索引保存完成。
+2025-06-17 13:51:23,567 - INFO - 目录记录保存完成。
+2025-06-17 13:51:23,568 - INFO - 已启动对目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 的监控。
+2025-06-17 13:53:36,477 - INFO - 索引加载完成。
+2025-06-17 13:53:36,477 - INFO - 目录记录加载完成。
+2025-06-17 13:53:36,477 - INFO - 为目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 建立文件变动监控...
+2025-06-17 13:53:36,479 - INFO - 已建立目录索引: /Users/cavaliers/Desktop/SensWatch-base/test 1, 最新时间戳: Tue Jun 17 13:51:23 2025
+2025-06-17 13:53:36,479 - INFO - 已启动定期保存索引，每隔 300 秒保存一次。
+2025-06-17 13:53:36,479 - INFO - 已停止定期保存索引。
+2025-06-17 13:53:36,479 - INFO - 索引文件 /Users/cavaliers/Desktop/SensWatch-base/file_index.json 已删除。
+2025-06-17 13:53:36,479 - INFO - 目录记录文件 /Users/cavaliers/Desktop/SensWatch-base/directory_log.json 已删除。
+2025-06-17 13:53:36,480 - INFO - 所有索引数据和线程已清理。
+2025-06-17 13:53:36,481 - INFO - /Users/cavaliers/Desktop/SensWatch-base/test 1索引构建完成，耗时 0.00 秒，共索引 7 个文件。
+2025-06-17 13:53:36,481 - INFO - 索引保存完成。
+2025-06-17 13:53:36,481 - INFO - 目录记录保存完成。
+2025-06-17 13:53:36,482 - INFO - 已启动对目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 的监控。
+2025-06-17 14:03:06,617 - INFO - 索引加载完成。
+2025-06-17 14:03:06,617 - INFO - 目录记录加载完成。
+2025-06-17 14:03:06,617 - INFO - 为目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 建立文件变动监控...
+2025-06-17 14:03:06,618 - INFO - 已建立目录索引: /Users/cavaliers/Desktop/SensWatch-base/test 1, 最新时间戳: Tue Jun 17 13:53:36 2025
+2025-06-17 14:03:06,618 - INFO - 已启动定期保存索引，每隔 300 秒保存一次。
+2025-06-17 14:03:06,619 - INFO - 已停止定期保存索引。
+2025-06-17 14:03:06,619 - INFO - 索引文件 /Users/cavaliers/Desktop/SensWatch-base/file_index.json 已删除。
+2025-06-17 14:03:06,619 - INFO - 目录记录文件 /Users/cavaliers/Desktop/SensWatch-base/directory_log.json 已删除。
+2025-06-17 14:03:06,619 - INFO - 所有索引数据和线程已清理。
+2025-06-17 14:03:06,620 - INFO - /Users/cavaliers/Desktop/SensWatch-base/test 1索引构建完成，耗时 0.00 秒，共索引 7 个文件。
+2025-06-17 14:03:06,620 - INFO - 索引保存完成。
+2025-06-17 14:03:06,620 - INFO - 目录记录保存完成。
+2025-06-17 14:03:06,622 - INFO - 已启动对目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 的监控。
+2025-06-17 14:03:24,980 - INFO - 索引加载完成。
+2025-06-17 14:03:24,980 - INFO - 目录记录加载完成。
+2025-06-17 14:03:24,980 - INFO - 为目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 建立文件变动监控...
+2025-06-17 14:03:24,982 - INFO - 已建立目录索引: /Users/cavaliers/Desktop/SensWatch-base/test 1, 最新时间戳: Tue Jun 17 14:03:06 2025
+2025-06-17 14:03:24,982 - INFO - 已启动定期保存索引，每隔 300 秒保存一次。
+2025-06-17 14:03:24,982 - INFO - 已停止定期保存索引。
+2025-06-17 14:03:24,982 - INFO - 索引文件 /Users/cavaliers/Desktop/SensWatch-base/file_index.json 已删除。
+2025-06-17 14:03:24,982 - INFO - 目录记录文件 /Users/cavaliers/Desktop/SensWatch-base/directory_log.json 已删除。
+2025-06-17 14:03:24,982 - INFO - 所有索引数据和线程已清理。
+2025-06-17 14:03:24,983 - INFO - /Users/cavaliers/Desktop/SensWatch-base/test 1索引构建完成，耗时 0.00 秒，共索引 7 个文件。
+2025-06-17 14:03:24,984 - INFO - 索引保存完成。
+2025-06-17 14:03:24,984 - INFO - 目录记录保存完成。
+2025-06-17 14:03:24,985 - INFO - 已启动对目录 /Users/cavaliers/Desktop/SensWatch-base/test 1 的监控。
